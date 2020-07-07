@@ -1,0 +1,1 @@
+{"type":"record","name":"Response","namespace":"io.confluent.samples","fields":[{"name":"requestId","type":"string"},{"name":"timestamp","type":"long"},{"name":"response","type":"string"}]}
